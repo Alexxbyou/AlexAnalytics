@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518515173444.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CA976C39",
+    "lastKnownWriteTime" : 1518589147,
+    "last_content_update" : 1518589147481,
+    "path" : "~/Documents/Projects/AIwR/BDVis.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "173,0",
+        "scrollLine" : "164",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

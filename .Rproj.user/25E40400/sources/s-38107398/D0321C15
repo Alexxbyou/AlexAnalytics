@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518515335781.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D0321C15",
+    "lastKnownWriteTime" : 1518540350,
+    "last_content_update" : 1518580719626,
+    "path" : "~/Documents/Projects/AIwR/BDVis.temp.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "scrollLine" : "27",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

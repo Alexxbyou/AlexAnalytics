@@ -1,0 +1,23 @@
+---
+title: Analytic Articles
+author: Alex
+date: '2018-02-13'
+slug: analytic-articles
+categories:
+  - Analytics
+tags:
+  - plot
+  - regression
+---
+
+
+```{r echo=FALSE}
+x<-rnorm(100)
+y<-x*2+3+rnorm(100)/10
+df<-data.frame(
+  x=x,
+  y=y
+)
+ggplot2::qplot(x,y,geom="point",col="steelblue")
+```
+

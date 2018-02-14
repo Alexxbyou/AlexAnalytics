@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518514500787.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E186192A",
+    "lastKnownWriteTime" : 1518514852,
+    "last_content_update" : 1518514852498,
+    "path" : "~/Documents/Projects/bdtest/AlexAnalytic/content/Analytics/2018-02-13-analytic-articles.Rmarkdown",
+    "project_path" : "content/Analytics/2018-02-13-analytic-articles.Rmarkdown",
+    "properties" : {
+        "cursorPosition" : "18,5",
+        "scrollLine" : "3"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
